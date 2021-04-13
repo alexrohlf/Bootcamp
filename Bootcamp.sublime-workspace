@@ -8,21 +8,12 @@
 	"buffers":
 	[
 		{
-			"file": "/D/Alex/Python/First.py",
+			"file": "Empty_Python_Script.py",
 			"settings":
 			{
 				"buffer_size": 10,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 113,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -58,6 +49,7 @@
 	},
 	"file_history":
 	[
+		"/D/Alex/Python/Bootcamp/Bootcamp/README.md"
 	],
 	"find":
 	{
@@ -92,12 +84,12 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/Alex/Python/First.py",
+					"file": "Empty_Python_Script.py",
 					"semi_transient": false,
 					"settings":
 					{
@@ -116,34 +108,6 @@
 						{
 							"auto_name": "",
 							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 113,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								93,
-								93
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
